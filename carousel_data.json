@@ -1,4 +1,4 @@
-{
+[{
     "url": "https://picsum.photos/300/200?random=1",
     "link": "https://picsum.photos/300/200?random=3"
   },
@@ -9,4 +9,4 @@
   {
     "url": "https://picsum.photos/300/200?random=3",
     "link": "https://indianexpress.com"
-  },
+  }]
