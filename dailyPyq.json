@@ -1,7 +1,13 @@
 {
   "Prelims": [
-    "2025_2_A_24",
-    "2025_2_A_24"
+    {
+      "Paper": "GS1",
+      "Topic": "Indian Society",
+      "Subtopic": "SOCIETY & SOCIAL ISSUES",
+      "Q_Id": [
+       "2025_2_A_24","2025_2_A_24"
+      ]
+    }
   ],
   "Mains": [
     {
