@@ -5,19 +5,18 @@
     {
       "Paper": "GS1",
       "Topic": "Environment",
-      "Subtopic": "Indian Initiatives",
+      "Subtopic": "Global Initiatives",
       "Q_Id": [
-     "2013_8_E_31", "2013_8_E_32", "2012_8_E_33", "2012_8_E_34", "2012_8_E_35", "2012_8_E_36", "2011_8_E_37", "2010_8_E_38", "2010_8_E_39", "2010_8_E_40", "2010_8_E_41", "2009_8_E_42", "2009_8_E_43", "2009_8_E_44", "2008_8_E_45", "2008_8_E_46", "2007_8_E_47", "2007_8_E_48", "2006_8_E_49", "2006_8_E_50", "2005_8_E_51", "2005_8_E_52", "2004_8_E_53", "2004_8_E_54", "2001_8_E_55", "1999_8_E_56", "1999_8_E_57", "1999_8_E_58", "1996_8_E_59", "1996_8_E_60", "1995_8_E_61"
-      ]
+     "2025_8_F_12", "2025_8_F_14", "2025_8_F_70", "2024_8_F_1", "2023_8_F_2", "2023_8_F_3", "2022_8_F_4", "2022_8_F_5", "2022_8_F_6", "2021_8_F_7", "2021_8_F_8", "2018_8_F_9", "2018_8_F_10", "2017_8_F_11", "2017_8_F_12", "2017_8_F_13", "2016_8_F_14", "2016_8_F_15", "2016_8_F_16", "2016_8_F_17", "2016_8_F_18", "2016_8_F_19", "2016_8_F_20"
     }
   ],
   "Mains": [
     {
       "Paper": "GS3",
       "Topic": "INTERNAL SECURITY",
-      "Subtopic": "Social Media, Cyber security & Money-laundering",
+      "Subtopic": "Border Management, Organized crime & Terrorism, Security forces",
       "Tag": [
-     "Social Media","Money laundering"
+     "Border management","Maritime Security","Airspace","Security forces"
       ]
     }
   ]
