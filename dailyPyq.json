@@ -5,19 +5,19 @@
     {
       "Paper": "GS1",
       "Topic": "Environment",
-      "Subtopic": "Global Initiatives",
+      "Subtopic": "Agriculture and Environment",
       "Q_Id": [
-         "2016_8_F_21", "2015_8_F_22", "2015_8_F_23", "2015_8_F_24", "2015_8_F_25", "2015_8_F_26", "2014_8_F_27", "2011_8_F_28", "2010_8_F_29", "2010_8_F_30", "2010_8_F_31", "2009_8_F_32", "2009_8_F_33", "2008_8_F_34", "2008_8_F_35", "2006_8_F_36", "2005_8_F_37", "2005_8_F_38", "2002_8_F_39", "1998_8_F_40", "1998_8_F_41"
+         2022_8_G_1, 2022_8_G_2, 2021_8_G_3, 2020_8_G_4, 2020_8_G_5, 2020_8_G_6, 2018_8_G_7, 2018_8_G_8, 2016_8_G_9, 2016_8_G_10, 2015_8_G_11, 2015_8_G_12, 2014_8_G_13, 2014_8_G_14, 2013_8_G_15, 2012_8_G_16, 2011_8_G_17, 2011_8_G_18, 2010_8_G_19, 1999_8_G_20
       ]
     }
   ],
   "Mains": [
     {
       "Paper": "GS3",
-      "Topic": "INTERNAL SECURITY",
-      "Subtopic": "Border Management, Organized crime & Terrorism, Security forces",
+      "Topic": "ENVIRONEMENT AND BIODIVERSITY",
+      "Subtopic": "Conservation, Pollution & EIA",
       "Tag": [
-     "Organized Crime","Terrorism"
+     "Pollution","Ecosystems","Climate Change","Sustainable Development"
       ]
     }
   ]
