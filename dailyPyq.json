@@ -5,9 +5,9 @@
     {
       "Paper": "GS1",
       "Topic": "Environment",
-      "Subtopic": "Agriculture and Environment",
+      "Subtopic": "Renewable Energy",
       "Q_Id": [
-         "2022_8_G_1", "2022_8_G_2", "2021_8_G_3", "2020_8_G_4", "2020_8_G_5", "2020_8_G_6", "2018_8_G_7", "2018_8_G_8", "2016_8_G_9", "2016_8_G_10", "2015_8_G_11", "2015_8_G_12", "2014_8_G_13", "2014_8_G_14", "2013_8_G_15", "2012_8_G_16", "2011_8_G_17", "2011_8_G_18", "2010_8_G_19", "1999_8_G_20"
+        "2025_8_H_1", "2025_8_H_80", "2024_8_H_1", "2024_8_H_2", "2024_8_H_3", "2024_8_H_4", "2023_8_H_5", "2023_8_H_6", "2022_8_H_7", "2020_8_H_8", "2020_8_H_9", "2017_8_H_10", "2015_8_H_11", "2012_8_H_12", "2011_8_H_13", "2010_8_H_14", "2010_8_H_15", "2009_8_H_16", "2008_8_H_17"
       ]
     }
   ],
@@ -17,7 +17,7 @@
       "Topic": "ENVIRONEMENT AND BIODIVERSITY",
       "Subtopic": "Conservation, Pollution & EIA",
       "Tag": [
-     "Pollution","Ecosystems","Climate Change","Sustainable Development"
+        "Renewable Energy","Initiatives","EIA"
       ]
     }
   ]
