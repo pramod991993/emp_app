@@ -5,19 +5,19 @@
     {
       "Paper": "GS1",
       "Topic": "Geography",
-      "Subtopic": "Indian Geography - Map Based",
+      "Subtopic": "Mountains & Glaciers",
       "Q_Id": [
-        "2018_7_D_1", "2017_7_D_2", "2017_7_D_3", "2017_7_D_4", "2015_7_D_5", "2014_7_D_6", "2010_7_D_7", "2008_7_D_8", "2007_7_D_9", "2007_7_D_10", "2006_7_D_11", "2005_7_D_12", "2003_7_D_13", "2003_7_D_14", "2002_7_D_15", "2001_7_D_16", "1999_7_D_17", "1996_7_D_18", "1996_7_D_19"
+       "2023_7_E_1", "2022_7_E_2", "2020_7_E_3", "2018_7_E_4", "2016_7_E_5", "2014_7_E_6", "2012_7_E_7", "2010_7_E_8", "2008_7_E_9", "2007_7_E_10", "2007_7_E_11", "2007_7_E_12", "2006_7_E_13", "2005_7_E_14", "2005_7_E_15", "2004_7_E_16", "2003_7_E_17", "2001_7_E_18", "1997_7_E_19", "1997_7_E_20", "1996_7_E_21", "1995_7_E_22", "1995_7_E_23", "1995_7_E_24"
       ]
     }
   ],
   "Mains": [
     {
-      "Paper": "GS3",
-      "Topic": "SCIENCE & TECHNOLOGY",
-      "Subtopic": "Applications, IPR",
+      "Paper": "GS4",
+      "Topic": "PART A",
+      "Subtopic": "Ethics and Human Interface",
       "Tag": [
-        "Biotech","Nanotechnology","Material Science","Health","Nuclear","IPR"
+        "Ethics","Determinants & Consequences"
       ]
     }
   ]
