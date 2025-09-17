@@ -4,20 +4,20 @@
   "Prelims": [
     {
       "Paper": "GS1",
-      "Topic": "Modern History",
-      "Subtopic": "Revolutionary Movements + Tribal & Peasant Movements",
+      "Topic": "Ancient Indian History",
+      "Subtopic": "Politics and Society",
       "Q_Id": [
-         "2022_4_L_1", "2014_4_L_2", "2011_4_L_3", "2006_4_L_4", "2005_4_L_5", "2001_4_L_6", "2000_4_L_7", "1999_4_L_8", "1998_4_L_9", "1997_4_L_10", "1996_4_L_11", "1995_4_L_12", "2020_4_N_1", "2020_4_N_2", "2018_4_N_3", "2013_4_N_4", "2006_4_N_5", "1999_4_N_6", "1997_4_N_7"
-      ]
+           "2025_2_A_24", "2025_2_A_25", "2025_2_A_26", "2025_2_A_27", "2025_2_A_29","2023_2_A_1", "2023_2_A_2", "2021_2_A_3", "2020_2_A_3A", "2019_2_A_4","2013_2_A_5", "2011_2_A_6", "2002_2_A_7", "2001_2_A_8", "2017_2_A_9","2015_2_A_9A", "2012_2_A_10", "2011_2_A_11", "1999_2_A_12", "1996_2_A_13","1995_2_A_14", "2020_2_A_15", "2016_2_A_16", "2014_2_A_17", "2006_2_A_18","2005_2_A_19", "1999_2_A_20", "1998_2_A_21", "1997_2_A_22", "2022_2_A_23","2000_2_A_24", "2003_2_A_25", "2000_2_A_26"
+         ]
     }
   ],
   "Mains": [
     {
       "Paper": "GS4",
       "Topic": "CASE STUDIES",
-      "Subtopic": "Attitude & Emotional Intelligence",
+      "Subtopic": "Aptitude & Values for Civil Service",
       "Tag": [
-        "Education and Ethics"
+        "Public Service Delivery"
       ]
     }
   ]
