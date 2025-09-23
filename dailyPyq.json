@@ -5,7 +5,7 @@
     {
       "Paper": "GS1",
       "Topic": "Ancient Indian History",
-      "Subtopic": "Literature",
+      "Subtopic": "Religion and Philosophy",
       "Q_Id": [
           "2020_2_C_1", "2020_2_C_2", "2020_2_C_3", "2020_2_C_4", "2020_2_C_5", "2020_2_C_6", "2020_2_C_7", "2020_2_C_8", "2020_2_C_9", "2020_2_C_10", "2020_2_C_11", "2020_2_C_12", "2020_2_C_13", "2020_2_C_14", "2020_2_C_15", "2020_2_C_16", "2020_2_C_17", "2020_2_C_18", "2020_2_C_19", "2020_2_C_20", "2020_2_C_21", "2020_2_C_22", "2020_2_C_23", "2020_2_C_24", "2020_2_C_25", "2020_2_C_26", "2020_2_C_27", "2020_2_C_28", "2020_2_C_29"
         ]
@@ -13,11 +13,11 @@
   ],
   "Mains": [
     {
-      "Paper": "GS4",
-      "Topic": "CASE STUDIES",
-      "Subtopic": "Ethics in Administration & Governance",
+      "Paper": "GS1",
+      "Topic": "SOCIETY & SOCIAL ISSUES",
+      "Subtopic": "Indian Society",
       "Tag": [
-        "Media and Journalism Ethics","Technology and Ethics"
+        "Salient features","Diversity","Tribe"
       ]
     }
   ]
