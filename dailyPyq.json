@@ -4,8 +4,8 @@
   "Prelims": [
     {
       "Paper": "GS1",
-      "Topic": "Science & Tech",
-      "Subtopic": "Diseases",
+      "Topic": "Current Affairs & GK",
+      "Subtopic": "Defence + Nuclear Weapons & Treaties",
       "Q_Id": [
         "2025_9_G_8", "2025_9_G_9", "2023_9_G_1", "2021_9_G_2", "2017_9_G_3", "2015_9_G_4", "2014_9_G_5", "2014_9_G_6", "2013_9_G_7", "2010_9_G_8", "2010_9_G_9", "2010_9_G_10", "2010_9_G_11", "2005_9_G_12", "2005_9_G_13", "2001_9_G_14", "1999_9_G_15", "1999_9_G_16", "1998_9_G_17", "1997_9_G_18", "1996_9_G_19", "1996_9_G_20", "1996_9_G_21", "1995_9_G_22", "1995_9_G_23", "1995_9_G_24", "2019_9_G_25"
         ]
@@ -15,9 +15,9 @@
     {
       "Paper": "GS1",
       "Topic": "HISTORY",
-      "Subtopic": "Post Independence",
+      "Subtopic": "History of the world",
       "Tag": [
-       "Formation of states","Movements","Political History"
+       "Industrial Revolution","American & French Revolution","Russian Revolution"
       ]
     }
   ]
