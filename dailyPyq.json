@@ -5,9 +5,9 @@
     {
       "Paper": "GS1",
       "Topic": "Medieval History",
-      "Subtopic": "Advent of Europeans in India",
+      "Subtopic": "Art, Architecture & Literature",
       "Q_Id": [
-        "2024_3_B_1", "2023_3_B_2", "2022_3_B_3", "2021_3_B_4", "2021_3_B_5", "2010_3_B_6", "2009_3_B_7", "2008_3_B_8", "2006_3_B_9", "2005_3_B_10", "2003_3_B_11", "2003_3_B_12", "1999_3_B_13"
+        "2022_3_C_1", "2021_3_C_2", "2019_3_C_3", "2019_3_C_4", "2019_3_C_5", "2018_3_C_6", "2014_3_C_7", "2006_3_C_8", "2003_3_C_9", "2002_3_C_10", "1999_3_C_11", "1999_3_C_12", "1999_3_C_13", "1998_3_C_14", "1997_3_C_15", "1997_3_C_16", "1996_3_C_17", "1995_3_C_18"
       ]
     }
   ],
@@ -17,7 +17,7 @@
       "Topic": "GEOGRAPHY",
       "Subtopic": "Geophysical phenomena, Oceanography",
       "Tag": [
-      "Landslide","Volcanoes"
+      "Cryosphere","Cyclones","Other"
       ]
     }
   ]
