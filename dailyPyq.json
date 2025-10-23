@@ -5,9 +5,9 @@
     {
       "Paper": "GS1",
       "Topic": "Medieval History",
-      "Subtopic": "Art, Architecture & Literature",
+      "Subtopic": "Religion and Philosophy",
       "Q_Id": [
-        "2022_3_C_1", "2021_3_C_2", "2019_3_C_3", "2019_3_C_4", "2019_3_C_5", "2018_3_C_6", "2014_3_C_7", "2006_3_C_8", "2003_3_C_9", "2002_3_C_10", "1999_3_C_11", "1999_3_C_12", "1999_3_C_13", "1998_3_C_14", "1997_3_C_15", "1997_3_C_16", "1996_3_C_17", "1995_3_C_18"
+        "2019_3_D_1", "2016_3_D_2", "2013_3_D_3", "2012_3_D_4", "2010_3_D_5", "2010_3_D_6", "2006_3_D_7", "2004_3_D_8", "2002_3_D_9", "2002_3_D_10", "1997_3_D_11", "1996_3_D_12"
       ]
     }
   ],
@@ -17,7 +17,7 @@
       "Topic": "GEOGRAPHY",
       "Subtopic": "Geophysical phenomena, Oceanography",
       "Tag": [
-      "Cryosphere","Cyclones","Other"
+      "Oceanography"
       ]
     }
   ]
